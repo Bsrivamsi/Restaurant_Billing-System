@@ -1,2 +1,3 @@
 # hotel-management
-it is a billing system for hotel
+It is a sample billing system for hotel/shops.
+
